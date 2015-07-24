@@ -27,11 +27,13 @@ The [wp-community-uk](http://wp-community-uk.slack.com) team is accessible with 
 
 
 
-###1. Get a a ke
-1.	First of all, before beginning, you need a WordPress.org account. If you haven't got one, head to https://wordpress.org/support/register.php and sign up for an account.
-2.	When this is done, visit https://make.wordpress.org/chat/, and half way down, under the "Joining the WordPress team on Slack", you will find a link to be invited to the Make WordPress Slack channel. Click on "I understand. Please send me an invite." (if you understand all above).
-3.	An email will be sent to you. Click that link and then create your account.
-4.	You'll be dropped into the Make WordPress Slack channel, it's up to you if you want to join a few more channels (by clicking on the left hand side under "Channels"), but we want to go to the WordCamp Manchester channel, which is hosted on the UK WP Community Slack.
+###1. Get a chat.wordpress.org email address
+a.	First of all, before beginning, you need a WordPress.org account. If you haven't got one, head to https://wordpress.org/support/register.php and sign up for an account.
+b.	When this is done, visit https://make.wordpress.org/chat/, and half way down, under the "Joining the WordPress team on Slack", you will find a link to be invited to the Make WordPress Slack channel. Click on "I understand. Please send me an invite." (if you understand all above).
+c.	An email will be sent to you. Click that link and then create your account.
+d.	You'll be dropped into the Make WordPress Slack channel, it's up to you if you want to join a few more channels (by clicking on the left hand side under "Channels"), but we want to go to the WordCamp Manchester channel, which is hosted on the UK WP Community Slack.
+
+###2. Sign up for an account on wp-community-uk.slack.com
 5.	Go to https://wp-community-uk.slack.com/signup, and put in your wordpress.org username in this box. An email will be sent to your email address.
 6.	Click on the "Confirm my Email Address", and you'll be taken to another username and password box. This can be the same or different to the username & password to be sent in 4.
 7.	You should be taken to the "#general" slack channel. To join the WordCamp Manchester slack channel. Click on the "+X More..." link under "Channels" in the left hand column, and search for "#wordcamp-manchester". Click on the channel's name to preview it, and then click "Join Channel" to join and contribute :)
