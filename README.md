@@ -3,9 +3,11 @@
 The WordPress community in the UK is on Slack. 
 
 ## What is Slack?
-In a nut shell [Slack](https://slack.com/) is an online chat service for teams. After many years of [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat), the [WordPress.org](http://WordPress.org) team moved all of their conversations onto Slack. This has made having conversations to do with the WordPress.org project much easier to have regardless of your technical abiity. You can read more about their decision at [chat.wordpress.org](http://chat.wordpress.org)
+In a nut shell [Slack](https://slack.com/) is an online chat service for teams. After many years of [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat), the [WordPress.org](http://WordPress.org) team moved all of their conversations onto Slack. This has made having conversations to do with the WordPress.org project much easier to have, regardless of technical abiity. You can read more about their decision at [chat.wordpress.org](http://chat.wordpress.org)
 
-With Slack you can create your own team, and within that team, have multiple channels. One way to look at it is that if Slack was a block of flats, every **team** is a flat, and every **channel** is a room within that flat. 
+With Slack you can create your own team, and within that team, have multiple channels. It may be helpful to look at it like this:
+
+>If Slack was a block of flats, every *team* is a flat, and every *channel* is a room within that flat.
 
 Just like a flat in real life, the key to entering to each team is different. We will discuss how to get onto the WP Community UK slack team later. 
 
@@ -68,5 +70,60 @@ There are some great tips at https://make.wordpress.org/chat/#help. Some of thos
 - [Gravatars](https://make.wordpress.org/chat#gravatars)
 
 
+## Code of Conduct
 
+This channel is not an official WordPress channel, but we do expect all our members to be lovely to each other. That's why we've decided to include a Code of Conduct. This is the same code of conduct as you would see in any WordCamp and across the WordPress community.
+
+For this code of conduct, We refers to the administrators of this team. This team is formed from the following people:
+
+>TODO: LIST SLACK ADMINS
+
+###1. Purpose
+
+We believes our community should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, preferred operating system, programming language, or text editor.
+
+This code of conduct outlines our expectations for participant behavior as well as the consequences for unacceptable behavior.
+
+We invite all participants to help us realize a safe and positive chat experience for everyone.
+
+###2. Expected Behavior
+
+- Be considerate, respectful, and collaborative.
+- Refrain from demeaning, discriminatory or harassing behavior and speech.
+- Be mindful of your surroundings and of your fellow participants. Alert Slack admins if you notice a dangerous situation or someone in distress.
+- Participate in an authentic and active way. In doing so, you help to create WP-Community-UK.slack.com community.
+
+###3. Unacceptable Behavior
+
+Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any member of WP-Community-UK.slack.com. The Slack channel is an open one; please be respectful to all patrons of the team.
+
+Harassment includes: offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of conversations; inappropriate contact, and unwelcome sexual attention.
+
+###4. Consequences Of Unacceptable Behavior
+
+Unacceptable behavior will not be tolerated by any member of the WP-Community-UK.slack team.
+
+Anyone asked to stop unacceptable behavior is expected to comply immediately.
+
+If a participant engages in unacceptable behavior, the administrators may take any action they deem appropriate, up to and including expulsion from the team without warning.
+
+###5. What To Do If You Witness Or Are Subject To Unacceptable Behavior
+
+If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify a conference organizer as soon as possible.
+
+The WordCamp CITYNAMEHERE team will be available to help participants contact venue security or local law enforcement, to provide escorts, or to otherwise assist those experiencing unacceptable behavior to feel safe for the duration of the conference. Volunteers will be wearing XXXXXXXXXXXXXXXXXXXXXXXX. Any volunteer can connect you with a conference organizer. You can also come to the special registration desk in the lobby and ask for the organizers.
+
+###6. Scope
+
+We expect all conference participants (sponsors, volunteers, speakers, attendees, and other guests) to abide by this code of conduct at all conference venues and conference-related social events.
+
+###7. Contact Information
+
+You can find all the administrators of the group using our Slack handles:
+
+>TODO: ADD SLACK HANDLES ONCE ALL ADMINS AGREE
+
+###8. License And Attribution
+
+This Code of Conduct is a direct swipe from the awesome work of Open Source Bridge, but with our event information substituted. The original is available at http://opensourcebridge.org/about/code-of-conduct/ and is released under a Creative Commons Attribution-ShareAlike license.
 
