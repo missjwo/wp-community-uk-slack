@@ -38,7 +38,8 @@ The [wp-community-uk](http://wp-community-uk.slack.com) team is accessible with 
 
 ## Questions
 ### Why do I need to have a chat.wordpress.org email address?
-When you create a team, Slack only allows you to add new members in two predefined ways
+When you create a team, Slack only allows you to add new members in two predefined ways:
+
 1. Invitation only - where as a user you would have to ask for an invitation.
 2. Using an email address from a particular domain.
 
