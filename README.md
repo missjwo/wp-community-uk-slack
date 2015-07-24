@@ -39,9 +39,13 @@ The [wp-community-uk](http://wp-community-uk.slack.com) team is accessible with 
 Now armed with your chat.wordpress.org email address, you can sign up for access to the UK community team.
 
 1.	Go to https://wp-community-uk.slack.com/signup, and put in your wordpress.org username in this box. An email will be sent to your email address.
-2.	Click on **Confirm my Email Address**, and you'll be taken to another username and password box. This can be the same or different to the username & password to be sent in 4.
+2.	Click on **Confirm my Email Address**, and you'll be taken to another username and password box. This can be the same or different to the username & password created for Make WordPress team (step 1.5).
 3.	You should be taken to the **#general** slack channel. 
-4.	To join any other channels: Click on the "+X More..." link under "Channels" in the left hand column, and search for "#wordcamp-manchester". Click on the channel's name to preview it, and then click "Join Channel" to join and contribute :)
+
+To join any other channels:
+1.	Click on the "+X More..." link under "Channels" in the left hand column
+2.	Click on the channel's name to preview it
+3.	Click "Join Channel" to join and chat :)
 
 ## Questions
 ### Why do I need to have a chat.wordpress.org email address?
