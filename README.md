@@ -29,9 +29,11 @@ The [wp-community-uk](http://wp-community-uk.slack.com) team is accessible with 
 
 ###1. Get a chat.wordpress.org email address
 1.	Before beginning, you need a WordPress.org account. If you haven't got one, head to https://wordpress.org/support/register.php and sign up for an account.
-2.	When this is done, visit https://chat.wordpress.org, and half way down, under **Joining the WordPress team on Slack**, you will find a link to be invited to the [Make WordPress Slack team](https://WordPress.slack.com). Click on "I understand. Please send me an invite." (if you understand all above).
-3.	An email will be sent to you. Follow the instructions in the email to create your account for Make WordPress Slack team - The home of all discussions on contributing to the WordPress project. 
-4.	You'll be dropped into the Make WordPress Slack team. From there you can join channels based on where you want to [contribute to WordPress](https://make.wordpress.org) (by clicking on the left hand side under "Channels").
+2.	When this is done, visit https://chat.wordpress.org, and half way down, under **Joining the WordPress team on Slack**, you will find a link to be invited to the [Make WordPress Slack team](https://WordPress.slack.com). 
+3.	Click on **I understand. Please send me an invite.** (if you understand all above).
+4.	An email will be sent to you. 
+5.	Follow the instructions in the email to create your account for Make WordPress Slack team - The home of all discussions on contributing to the WordPress project. 
+6.	You'll be dropped into the Make WordPress Slack team. From there you can join channels based on where you want to [contribute to WordPress](https://make.wordpress.org) (by clicking on the left hand side under "Channels").
 
 ###2. Sign up for an account on wp-community-uk.slack.com
 Now armed with your chat.wordpress.org email address, you can sign up for access to the UK community team.
