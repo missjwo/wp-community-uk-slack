@@ -1,11 +1,11 @@
-# ((wp-community-uk.slack.com)[http://wp-community-uk.slack.com])
+# [wp-community-uk.slack.com](http://wp-community-uk.slack.com)
 
 The WordPress community in the UK is on Slack. 
 
 ## What is Slack?
-In a nut shell Slack is an online chat service for teams. After many years of IRC, the WordPress.org team moved all of their internal conversations onto Slack. This has made having conversations to do with the WordPress.org project much easier to have regardless of your technical abiity. You can read more about their decision at (chat.wordpress.org)[http://chat.wordpress.org]
+In a nut shell Slack is an online chat service for teams. After many years of IRC, the WordPress.org team moved all of their internal conversations onto Slack. This has made having conversations to do with the WordPress.org project much easier to have regardless of your technical abiity. You can read more about their decision at [chat.wordpress.org](http://chat.wordpress.org)
 
-## (wp-community-uk.slack.com)[http://wp-community-uk.slack.com] ?
+## [wp-community-uk.slack.com](http://wp-community-uk.slack.com)?
 WP Community UK, is the team name for the UK WordPress community. It is currently primarily being used to help support and sustain the many WordPress community organisers up and down the country. This tends to be in the form of discussions around venues, speakers, sponsorship and general running a group discussions.
 
 In the team, you will also find individual channels for all the WordPress groups. In there you will find friendly faces from your local events. The team also enables you to talk with other groups - find out other places to go, other ideas/suggestions for meetings. Plus get involved with the WordCamps and any other WordPress events are are beging organised around the country.
@@ -13,7 +13,7 @@ In the team, you will also find individual channels for all the WordPress groups
 We also use the channel to discuss UK specific issues and ideas. Example topics include our lovely banking system, UK legal and how our lovely government is changing the laws that effects us as freelancers, businesses and employees. 
 
 ### What it is not.
-(wp-community-uk.slack.com)[http://wp-community-uk.slack.com] is not a WordPress support channel and we are not in favour of siloing ourselves from the greater WordPress community.
+[wp-community-uk.slack.com](http://wp-community-uk.slack.com) is not a WordPress support channel and we are not in favour of siloing ourselves from the greater WordPress community.
 
 This is not to say we don't get questions on issues to do with WordPress, but we highly recommend you visit the WordPress [support forums](https://wordpress.org/support/) or [online chatroom](https://webchat.freenode.net/?channels=wordpress).
 
