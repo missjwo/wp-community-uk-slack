@@ -1,4 +1,4 @@
-# (wp-community-uk.slack.com)[http://wp-community-uk.slack.com]
+# ((wp-community-uk.slack.com)[http://wp-community-uk.slack.com])
 
 The WordPress community in the UK is on Slack. 
 
