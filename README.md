@@ -110,13 +110,13 @@ If a participant engages in unacceptable behavior, the administrators may take a
 
 ###5. What To Do If You Witness Or Are Subject To Unacceptable Behavior
 
-If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify a conference organizer as soon as possible.
+If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify an administrator as soon as possible.
 
-The WordCamp CITYNAMEHERE team will be available to help participants contact venue security or local law enforcement, to provide escorts, or to otherwise assist those experiencing unacceptable behavior to feel safe for the duration of the conference. Volunteers will be wearing XXXXXXXXXXXXXXXXXXXXXXXX. Any volunteer can connect you with a conference organizer. You can also come to the special registration desk in the lobby and ask for the organizers.
+The administrators are available to help participants, to block offenders, or to otherwise assist those experiencing unacceptable behavior to feel safe on the Slack team.
 
 ###6. Scope
 
-We expect all conference participants (sponsors, volunteers, speakers, attendees, and other guests) to abide by this code of conduct at all conference venues and conference-related social events.
+We expect all conference participants to abide by this code of conduct whilst on our Slack team.
 
 ###7. Contact Information
 
