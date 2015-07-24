@@ -5,7 +5,7 @@ The WordPress community in the UK is on Slack.
 ## What is Slack?
 In a nut shell [Slack](https://slack.com/) is an online chat service for teams. After many years of [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat), the [WordPress.org](http://WordPress.org) team moved all of their conversations onto Slack. This has made having conversations to do with the WordPress.org project much easier to have regardless of your technical abiity. You can read more about their decision at [chat.wordpress.org](http://chat.wordpress.org)
 
-With Slack you can create your own team, and within that team, have multiple channels. One way to look at it is that if Slack was a block of flats, every **team** is a flat, and every **channel** is a room within that team. 
+With Slack you can create your own team, and within that team, have multiple channels. One way to look at it is that if Slack was a block of flats, every **team** is a flat, and every **channel** is a room within that flat. 
 
 Just like a flat in real life, the key to entering to each team is different. We will discuss how to get onto the WP Community UK slack team later. 
 
