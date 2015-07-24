@@ -45,6 +45,7 @@ Now armed with your chat.wordpress.org email address, you can sign up for access
 3.	You should be taken to the **#general** slack channel. 
 
 In the UK Slack team, you will find many other channels, including channels for each user/ meetup group. To join any other channels:
+
 1.	Click on the "+X More..." link under "Channels" in the left hand column
 2.	Click on the channel's name to preview it
 3.	Click "Join Channel" to join and chat :)
