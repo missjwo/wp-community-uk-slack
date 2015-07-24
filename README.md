@@ -29,7 +29,7 @@ The [wp-community-uk](http://wp-community-uk.slack.com) team is accessible with 
 
 ###1. Get a chat.wordpress.org email address
 1.	Before beginning, you need a WordPress.org account. If you haven't got one, head to https://wordpress.org/support/register.php and sign up for an account.
-2.	When this is done, visit https://chat.wordpress.org, and half way down, under **Joining the WordPress team on Slack**, you will find a link to be invited to the [Make WordPress Slack team](https://WordPress.slack.com). 
+2.	When this is done, visit https://chat.wordpress.org, and half way down, under **[Joining the WordPress team on Slack](https://make.wordpress.org/chat/#join)**, you will find a link to be invited to the [Make WordPress Slack team](https://WordPress.slack.com). 
 3.	Click on **I understand. Please send me an invite.** (if you understand all above).
 4.	An email will be sent to you. 
 5.	Follow the instructions in the email to create your account for Make WordPress Slack team - The home of all discussions on contributing to the WordPress project. 
@@ -42,7 +42,7 @@ Now armed with your chat.wordpress.org email address, you can sign up for access
 2.	Click on **Confirm my Email Address**, and you'll be taken to another username and password box. This can be the same or different to the username & password created for Make WordPress team (step 1.5).
 3.	You should be taken to the **#general** slack channel. 
 
-To join any other channels:
+In the UK Slack team, you will find many other channels, including channels for each user/ meetup group. To join any other channels:
 1.	Click on the "+X More..." link under "Channels" in the left hand column
 2.	Click on the channel's name to preview it
 3.	Click "Join Channel" to join and chat :)
@@ -62,8 +62,11 @@ Remember how we describe every team on slack as a flat in a block of flats, and 
 We know, it's a pain. At least we only have to go through this process once! 
 
 ## Tips
-1.	You don't have to stay in the channels added in step 4, but we recommend you join the #events channel on Make WordPress' Slack.
-2.	You can connect via a browser, but most people don't. You can download native software at https://make.wordpress.org/chat/
+There are some great tips at https://make.wordpress.org/chat/#help. Some of those tips can be used on this team too. These include: 
+- [Notifications](https://make.wordpress.org/chat#notifications)
+- [Native Desktop and Mobile Apps](https://make.wordpress.org/chat#apps)
+- [Gravatars](https://make.wordpress.org/chat#gravatars)
+
 
 
 
