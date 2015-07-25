@@ -73,7 +73,7 @@ There are some great tips at https://make.wordpress.org/chat/#help. Some of thos
 
 ## Code of Conduct
 
-This channel is not an official WordPress channel, but we do expect all our members to be lovely to each other. That's why we've decided to include a Code of Conduct. This is the same code of conduct as you would see in any WordCamp and across the WordPress community.
+This channel is not an official WordPress channel, but we do expect all our members to be lovely to each other. That's why we've decided to include a Code of Conduct. This code of conduct is based off the code of conduct that you would see in many WordCamp and across the WordPress community.
 
 For this code of conduct, We refers to the administrators of this team. This team is formed from the following people:
 
