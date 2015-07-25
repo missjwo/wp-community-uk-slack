@@ -116,7 +116,7 @@ The administrators are available to help participants, to block offenders, or to
 
 ###6. Scope
 
-We expect all conference participants to abide by this code of conduct whilst on our Slack team.
+We expect all Slack team members to abide by this code of conduct whilst on our Slack team.
 
 ###7. Contact Information
 
@@ -126,5 +126,5 @@ You can find all the administrators of the group using our Slack handles:
 
 ###8. License And Attribution
 
-This Code of Conduct is a direct swipe from the awesome work of Open Source Bridge, but with our event information substituted. The original is available at http://opensourcebridge.org/about/code-of-conduct/ and is released under a Creative Commons Attribution-ShareAlike license.
+This Code of Conduct is a swipe from the awesome work of Open Source Bridge, but with our Slack information substituted. The original is available at http://opensourcebridge.org/about/code-of-conduct/ and is released under a Creative Commons Attribution-ShareAlike license.
 
