@@ -19,7 +19,7 @@ In the team, you will also find individual channels for all the WordPress groups
 We also use the channel to discuss UK specific issues and ideas. Example topics include our lovely banking system, UK legal and how our lovely government is changing the laws that effects us as freelancers, businesses and employees. 
 
 ### What it is not
-[wp-community-uk.slack.com](http://wp-community-uk.slack.com) is not a WordPress support channel and we are not in favour of siloing ourselves from the greater WordPress community.
+[wp-community-uk.slack.com](http://wp-community-uk.slack.com) is not a WordPress support channel and we are not in favour of seperating ourselves from the greater WordPress community. 
 
 This is not to say we don't get questions on issues to do with WordPress, but we highly recommend you visit the WordPress [support forums](https://wordpress.org/support/) or [online chatroom](https://webchat.freenode.net/?channels=wordpress).
 
@@ -98,7 +98,7 @@ We invite all participants to help us realize a safe and positive chat experienc
 
 Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any member of WP-Community-UK.slack.com. The Slack channel is an open one; please be respectful to all patrons of the team.
 
-Harassment includes: offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of conversations; inappropriate contact, and unwelcome sexual attention.
+Harassment includes: offensive comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including in any uploaded documents or websites linked to); deliberate intimidation, stalking or following; sustained disruption of conversations; inappropriate contact, and unwelcome sexual attention.
 
 ###4. Consequences Of Unacceptable Behavior
 
@@ -113,6 +113,8 @@ If a participant engages in unacceptable behavior, the administrators may take a
 If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify an administrator as soon as possible.
 
 The administrators are available to help participants, to block offenders, or to otherwise assist those experiencing unacceptable behavior to feel safe on the Slack team.
+
+You can contact an administrator privately by clicking on their name under the DIRECT MESSAGES heading on the left hand side of Slack.
 
 ###6. Scope
 
