@@ -14,7 +14,7 @@ Just like a flat in real life, each team has its own key to get in. We will disc
 ## [wp-community-uk.slack.com](http://wp-community-uk.slack.com)?
 WP Community UK, is the team name for the UK WordPress community on Slack. It is currently primarily being used to help support and sustain the many WordPress community organisers up and down the country. This tends to be in the form of discussions around venues, speakers, sponsorship and general discussions about running a group.
 
-In the team, you will also find individual channels for all the WordPress groups, whee you will find friendly faces from your local events. The team also enables you to talk with other groups - find out other places to go, other ideas/suggestions for meetings. You can also get involved with the WordCamps and any other WordPress events that are are being organised around the country.
+In the team, you will also find individual channels for all the WordPress groups, where you will find friendly faces from your local events. The team also enables you to talk with other groups - find out other places to go, other ideas/suggestions for meetings. You can also get involved with the WordCamps and any other WordPress events that are are being organised around the country.
 
 We also use the channel to discuss UK specific issues and ideas. Example topics include our  banking system, UK legal issues, and how our lovely government is changing the laws that effects us as freelancers, businesses, and employees. 
 
