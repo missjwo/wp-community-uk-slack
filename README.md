@@ -22,7 +22,7 @@ We also use the channel to discuss UK specific issues and ideas. Example topics 
 [wp-community-uk.slack.com](http://wp-community-uk.slack.com) is not a WordPress support channel and we are not in favour of seperating ourselves from the greater WordPress community. 
 
 This is not to say we don't get questions on issues to do with WordPress, but we highly recommend you visit the WordPress [support forums](https://wordpress.org/support/) or [online chatroom](https://webchat.freenode.net/?channels=wordpress).
-
+---
 ## How to join the WP Community UK Slack Team
 
 You can access the [wp-community-uk](http://wp-community-uk.slack.com) Slack team using a @chat.wordpress.org email address. These are freely available to anyone with a WordPress.org account. 
@@ -47,7 +47,7 @@ In the UK Slack team, you will find many other channels, including channels for 
 1.	Click on the "+X More..." link under "Channels" in the left hand column
 2.	Click on the channel's name to preview it
 3.	Click "Join Channel" to join and chat :)
-
+---
 ## Questions
 ### Why do I need to have a chat.wordpress.org email address?
 When you create a team, Slack only allows you to add new members in two predefined ways:
@@ -67,14 +67,17 @@ There are some great tips at https://make.wordpress.org/chat/#help. Some of thos
 - [Notifications](https://make.wordpress.org/chat#notifications)
 - [Native Desktop and Mobile Apps](https://make.wordpress.org/chat#apps)
 - [Gravatars](https://make.wordpress.org/chat#gravatars)
-
+---
 ## Code of Conduct
 
 This channel is not an official WordPress channel, but we do expect all our members to respect each other. That's why we've decided to include a Code of Conduct. This code of conduct is based off the code of conduct that you would see in many WordCamp and across the WordPress community.
 
 For this code of conduct, we refer to the administrators of this team:
 
->TODO: LIST SLACK ADMINS
+- Jenny Wong @miss_jwo
+- Tim Nash @tnash
+- Siobhan McKnowen @siobhan
+- Dave Pullig @davepullig
 
 ###1. Purpose
 
@@ -121,7 +124,10 @@ We expect all Slack team members to abide by this code of conduct whilst on our 
 
 You can find all the administrators of the group using our Slack handles:
 
->TODO: ADD SLACK HANDLES ONCE ALL ADMINS AGREE
+- Jenny Wong @miss_jwo
+- Tim Nash @tnash
+- Siobhan McKnowen @siobhan
+- Dave Pullig @davepullig
 
 ###8. License And Attribution
 
